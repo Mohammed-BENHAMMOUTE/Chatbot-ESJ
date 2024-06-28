@@ -5,7 +5,7 @@ import { Message } from '@/lib/validators/message'
 const defaultValue = [
   {
     id: nanoid(),
-    text: 'Hello, how can I help you?',
+    text: "Bonjour, je suis l'assistant IA de eESJ, comment puis-je vous aider ?",
     isUserMessage: false,
   },
 ]
